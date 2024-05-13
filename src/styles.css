@@ -1,0 +1,28 @@
+.loader {
+  display: none;
+  text-align: center;
+}
+
+.error {
+  display: none;
+  text-align: center;
+  color: red;
+}
+
+.cat-info {
+  display: inline-block;
+  text-align: center;
+}
+
+.breed-select {
+  display: flex;
+  margin: 20px auto;
+}
+
+.cat-info img {
+  width: 400px;
+}
+
+.cat-info p {
+  font-size: 20px;
+}
